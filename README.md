@@ -1,0 +1,2 @@
+# dtsInit
+Iseng daripada nganggur
