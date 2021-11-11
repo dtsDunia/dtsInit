@@ -1,0 +1,5 @@
+export { default as Brand } from './Brand'
+export { default as MovieCard } from './Molecules/MovieCard'
+export { default as RateStar } from './Atoms/RateStar'
+export { default as Header } from './Atoms/HeaderHome'
+export { default as GenreTag } from './Atoms/GenreTag'
